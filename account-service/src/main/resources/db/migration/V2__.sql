@@ -1,0 +1,2 @@
+ALTER TABLE user
+    MODIFY email VARCHAR(255) NULL;

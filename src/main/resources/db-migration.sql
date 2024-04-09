@@ -1,0 +1,16 @@
+alter table user add column display_name varchar(36) default 'John Doe' not null;
+alter table user add column occupation varchar(255);
+alter table user add column display_name varchar(36) default 'John Doe' not null;
+alter table user add column occupation varchar(255);
+alter table user add column display_name varchar(36) default 'John Doe' not null;
+alter table user add column occupation varchar(255);
+alter table user add column display_name varchar(36) default 'John Doe' not null;
+alter table user add column occupation varchar(255);
+alter table user add column display_name varchar(36) default 'John Doe' not null;
+alter table user add column occupation varchar(255);
+alter table user add column usernamee varchar(255) not null;
+alter table user add column usernamee varchar(255) not null;
+alter table user add column usernamee varchar(255) not null;
+alter table user add column usernamee varchar(255) not null;
+alter table user add column occupationn varchar(255);
+alter table user add column occupationn varchar(255);
